@@ -1,9 +1,6 @@
 # ❤️ AI Heart Disease Risk Predictor  
 ### 🏥 AI-Powered Clinical Risk Assessment Dashboard  
 
-🔗 **Live Demo:**  
-👉 https://ai-heart-disease-risk-predictor-app-ml-dashboard-01.streamlit.app  
-
 ---
 
 ## 🚀 Project Overview
