@@ -108,8 +108,7 @@ streamlit run app.py
 
 This application is deployed on **Streamlit Cloud**.
 
-🔗 Live App:  
-https://ai-heart-disease-risk-predictor-app-ml-dashboard-01.streamlit.app  
+🔗 [Live App](https://ai-heart-disease-risk-predictor-app-ml-dashboard-01.streamlit.app)  
 
 ---
 
